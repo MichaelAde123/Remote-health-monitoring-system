@@ -1,0 +1,7 @@
+Flask
+flask_session
+mysql-connector-python
+werkzeug
+pyotp
+qrcode
+reportlab
